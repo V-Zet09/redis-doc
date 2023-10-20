@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "Maico"
 linkTitle: "Documentation"
 weight: 20
 aliases:
